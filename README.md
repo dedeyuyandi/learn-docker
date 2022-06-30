@@ -5,6 +5,8 @@
     - for example ```docker build --tag dedeyuyandi/test:0.4 .```
 - Push image to hub.docker.com `docker push username/repository:nametag`
     - for example ```docker push dedeyuyandi/test:0.4```
+
+### Step by step docker container
 - Create container
     - for example ```docker container create --name test04 -p 8084:8080 dedeyuyandi/test:0.4```
 
