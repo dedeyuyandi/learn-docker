@@ -16,4 +16,5 @@
 - Stop container
     - for example ```sh docker container stop test04```
 - Remove container
-    - for example ```sh docker container rm test04```
+    - for example ```sh
+        docker container rm test04```
