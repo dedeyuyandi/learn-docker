@@ -17,3 +17,7 @@
     - for example ```docker container stop test04```
 - Remove container
     - for example ```docker container rm test04```
+    
+ ### Kubernetes
+ - create pod ```kubectl create -f pod.yaml```
+ - testing access in local wiht port-forward ```kubectl port-forward auth 8090:8080```
